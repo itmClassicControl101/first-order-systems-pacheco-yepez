@@ -1,0 +1,34 @@
+Check list for laboratory reports.
+
+Formato y forma:
+- [ ] Ortografía: La portada tiene faltas de ortografa, 
+- [ ] Estilo: Hay muches erroes de estilo como escribir variables como texto,  la 's' de la transformada de Laplace es minúscula 
+- [x] Estructura
+- [ ] Originalidad: Se integra información de otras fuentes pero no se indica que información. Los autores deben indicar que 
+partes del reporte no son o están basadas en información de otros autores, fuentes, páginas, etc.
+- [ ] Imágenes, Tablas y Referencias: Las secciones de código no son tablas.
+- [x] Estilo de referencias
+
+Contenido:
+- [x] Introducción
+- [x] Metodología
+- [x] Desarrollo
+- [x] Simulación
+- [x] Resultados 
+- [x] Conclusiones
+
+Comparación de los resultados:
+- [x] Scilab y Ecuaciones
+- [ ] Respuesta al escalón: no es función implulso
+- [x] Modos de operación del sistema Wo=Wi, Wo><Wi
+- [ ] Conclusiones: Las conclusiones deben ser aún más técnicas, falta mucho desarrollo en eso.
+
+Repositorio:
+- [x] Carpetas
+- [x] Código Scilab
+- [x] Código de Latex
+- [x] Entregado en tiempo
+
+
+Grade=88
+
